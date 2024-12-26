@@ -123,7 +123,7 @@ const AgencyLanding = () => {
       <section id="about" className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <h3 className="text-3xl font-bold text-center mb-12 text-blue-900">
-            À Propos de DigiBoost Guinée
+            À Propos de Guinée Local Deals
           </h3>
           <div className="max-w-4xl mx-auto">
             <p className="text-gray-700 mb-6 text-lg leading-relaxed">
